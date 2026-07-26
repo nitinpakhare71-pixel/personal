@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Nitin Pakhare | Personal Website</nitinpakhare71>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Website</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="projects.html">Projects</a>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Hello, I’m Nitin 👋</h2>
+      <p>This is my personal website hosted on GitHub Pages.</p>
+      <p>Here you’ll find my projects, interests, and ways to connect with me.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2026 Nitin Pakhare | <a href="mailto:your-email@example.com">Contact Me</a></p>
+  </footer>
+</body>
+</html>
